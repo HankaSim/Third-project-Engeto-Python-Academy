@@ -1,7 +1,7 @@
 """
-Election_scraper.py: třetí projekt do Engeto Python Akademie
+Elections_scraper.py: třetí projekt do Engeto Python Akademie
 
-Election Scraper
+Elections Scraper
 
 author: Hana Šimečková
 email: simeckova.hana8@gmail.com

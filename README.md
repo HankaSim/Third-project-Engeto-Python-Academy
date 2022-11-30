@@ -15,7 +15,7 @@ Program se spouští pomocí dvou argumentů:
 ### **Běh programu**
 **_Ukázka pro okrsek Uherské Hradiště:_**
 
-PS C:\Users\simec\Desktop\Election_scraper> python Election_scraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=13&xnumnuts=7202" "results_Uherské Hradiště.csv"
+PS C:\Users\simec\Desktop\Elections_scraper> python Elections_scraper.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=13&xnumnuts=7202" "results_Uherské Hradiště.csv"
 
 Stahování dat...
 
