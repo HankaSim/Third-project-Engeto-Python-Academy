@@ -1,4 +1,4 @@
-# Election scraper
+# Elections scraper
 ### **Třetí projekt pro Engeto Python Academy**
 #
 
